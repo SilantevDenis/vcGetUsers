@@ -1,0 +1,16 @@
+{
+  "name": "vcbot.loc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "silantevdenis",
+  "license": "ISC",
+  "dependencies": {
+    "mysql2": "^2.1.0",
+    "request": "^2.88.2",
+    "simple-node-logger": "^18.12.24"
+  }
+}
